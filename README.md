@@ -1,1 +1,1 @@
-# QLDA_Group2
+# quản lý dự án nhóm 2
