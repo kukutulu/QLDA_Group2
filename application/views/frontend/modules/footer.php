@@ -28,15 +28,15 @@
                 <ul class="list-unstyled">
                     <li class="clearfix">
                         <i class="fa fa-map-marker"></i>
-                        <span>198 Đội Cấn, Ba Đình, Hà Nội</span>
+                        <span>Hà Nội</span>
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-phone"></i>
-                        <span>0383975668 - 0999.915999</span>
+                        <span>012345678-0123456789</span>
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-envelope"></i>
-                        <span><a href="mailto:nguoi0123@gmail.com">nguoi0123@gmail.com</a></span>
+                        <span><a href="#">gmail@gmail.com</a></span>
                     </li>
                 </ul>
             </div>
@@ -52,7 +52,7 @@
             </ul>
         </div>
         <div class="col-xs-12 col-sm-6">
-           <!-- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Ffacebook&tabs=timeline&width=340&height=200&small_header=false&adapt_container_width=false&hide_cover=false&show_facepile=false&appId" width="340" height="200" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe> -->
+          
        </div>
    </div>
 </div>
