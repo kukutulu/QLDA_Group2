@@ -23,7 +23,7 @@
                       <li>
                         <ul class="menu">
                           <li>
-                            <a href="#">
+                            <a >
                               <i class="fa fa-users text-aqua"></i>
                               <?php echo $this->Morders->orders_count_header_not();?> 
                               Đơn hàng chưa duyệt
@@ -34,7 +34,7 @@
               <li>
                 <ul class="menu">
                   <li>
-                    <a href="#">
+                    <a >
                       <i class="fa fa-users text-aqua"></i> 
                       <?php echo $this->Morders->orders_count_header();?> 
                       Đơn hàng đang giao

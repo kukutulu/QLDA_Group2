@@ -65,6 +65,10 @@ class Mcategory extends CI_Model {
 		$this->db->limit(1);
         $query = $this->db->get($this->table);
         $row=$query->row_array();
+		if ($id == 0)
+		{
+			return "";
+		}
         return $row['name'];
 	}
 	// Lấy lên danh sách danh mục

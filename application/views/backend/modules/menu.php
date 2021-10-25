@@ -70,7 +70,7 @@
                 </li>
                 <?php if($user['role'] == 1){
                 echo  '<li>
-                    <a href="<?php echo base_url() ?>admin/useradmin">
+                    <a href="admin/useradmin">
                         <i class="fa fa-users"></i> Nhân viên
                     </a>
                 </li>';
